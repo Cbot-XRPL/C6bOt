@@ -1,4 +1,3 @@
-- 
 - 🦾 Hi, I’m @C6bOt 
 - 🔮 I manage Cbot Labs Inc.
 - 🚀 I’m interested in crypto appilcations 
