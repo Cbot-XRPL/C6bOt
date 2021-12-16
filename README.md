@@ -1,4 +1,4 @@
-- 🦾 Hi, I’m @C6bOt 
+- 🦾 Hi, I’m C6bOt♉
 - 🔮 I am managing Patner at Cbot Labs Inc.
 - 🚀 I’m interested in crypto appilcations 
 - 🛠️ I’m currently learning to use node.js
