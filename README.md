@@ -1,5 +1,6 @@
-- 🦾 Hi, I’m Cbot
-- 🔮 I am managing Patner at Cbot Labs Inc.
-- 🚀 I’m interested in crypto appilcations 
-- 🛠️ I’m currently learning to use C
+- 🦾 Hi, I’m Cody
+- 🔮 Patner at Cbot Labs Inc.
+- 🚀 I’m interested in crypto applications 
+- 🛠️ I prefer Javascript
+- 🛠️ I’m currently learning to use C 
 - 📫 How to reach me cybrcris@gmail.com
