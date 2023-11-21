@@ -1,4 +1,4 @@
-- 🦾 Hi, I’m Cody
+- 🦾 Hi, I’m Cbot
 - 🔮 I am managing Patner at Cbot Labs Inc.
 - 🚀 I’m interested in crypto appilcations 
 - 🛠️ I’m currently learning to use C
