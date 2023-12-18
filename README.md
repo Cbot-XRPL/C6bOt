@@ -5,6 +5,4 @@
 - I’m currently learning to use C 
 - How to reach me cybrcris@gmail.com
 
-```sh
-npm install copy-text-to-clipboard
-```
+
